@@ -1,0 +1,12 @@
+{
+  "name": "cursor-plugin-starters",
+  "owner": {
+    "name": "Your Org",
+    "email": "plugins@example.com"
+  },
+  "metadata": {
+    "description": "Starter marketplace template for Cursor plugins",
+    "version": "0.1.0"
+  },
+  "plugins": []
+}
